@@ -1,0 +1,1 @@
+I dont recommend using this script template for online games that will get you banned becuse that would not be ideal but you do you at your own risk but just remember that its not my fault if you end up getting banned from this script template 
