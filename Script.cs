@@ -31,7 +31,7 @@ class Program
         List<string> sights = new List<string>
         {
             "Iron Sights",
-            "Hollow Sight",
+            "Holo Sight",
             "Handmade Sight",
             "8x Scope"
         };
